@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/React-Portfolio-Website/static/js/main.7457d4a1.chunk.js",
+    "main.js.map": "/React-Portfolio-Website/static/js/main.7457d4a1.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio-Website/static/js/runtime-main.a57e5507.js",
+    "runtime-main.js.map": "/React-Portfolio-Website/static/js/runtime-main.a57e5507.js.map",
+    "static/css/2.4be38407.chunk.css": "/React-Portfolio-Website/static/css/2.4be38407.chunk.css",
+    "static/js/2.2f6a23b9.chunk.js": "/React-Portfolio-Website/static/js/2.2f6a23b9.chunk.js",
+    "static/js/2.2f6a23b9.chunk.js.map": "/React-Portfolio-Website/static/js/2.2f6a23b9.chunk.js.map",
+    "index.html": "/React-Portfolio-Website/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/React-Portfolio-Website/static/css/2.4be38407.chunk.css.map",
+    "static/js/2.2f6a23b9.chunk.js.LICENSE.txt": "/React-Portfolio-Website/static/js/2.2f6a23b9.chunk.js.LICENSE.txt",
+    "static/media/TylerResume.e42ef376.pdf": "/React-Portfolio-Website/static/media/TylerResume.e42ef376.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a57e5507.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.2f6a23b9.chunk.js",
+    "static/js/main.7457d4a1.chunk.js"
+  ]
+}
